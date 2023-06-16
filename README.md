@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karlo!
-- 👀 I’m interested in video games andmechanical keyboards
+- 👀 I’m interested in video games and mechanical keyboards
 - 🌱 I’m currently improving on coding in Python, Java, and React
 - 📫 How to reach me: mendozad.karlo@gmail.com
 
